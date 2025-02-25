@@ -30,9 +30,9 @@ pytest/unittest (Testing)
 
 ### Clone the repository
 
-```git clone https://github.com/yourusername/Django-Referral-API.git```
+```git clone https://github.com/rishee10/Backend-Assignment/tree/main```
 
-```cd Django-Referral-API```
+```cd Backend-Assignment```
 
 ### Create a virtual environment and activate it
 
